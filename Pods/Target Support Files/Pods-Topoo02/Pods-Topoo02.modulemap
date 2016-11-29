@@ -1,0 +1,6 @@
+framework module Pods_Topoo02 {
+  umbrella header "Pods-Topoo02-umbrella.h"
+
+  export *
+  module * { export * }
+}
